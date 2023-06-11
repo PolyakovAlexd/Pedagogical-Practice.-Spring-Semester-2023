@@ -1,0 +1,1 @@
+<a href='/showform/0' name='worker'>добавить кандидата</a>
